@@ -1,0 +1,18 @@
+section {
+  height: 70vh;
+  text-align: center;
+}
+
+.user {
+  font-family: 'Caveat Brush', cursive;
+  font-size: 2em;
+  color: #000E35;
+  margin-bottom: 2px;
+}
+
+.score {
+  font-family: 'Lato', sans-serif;
+  font-size: 1.3em;
+  color: #000E35;
+  margin-top: 2px;
+}

@@ -1,0 +1,32 @@
+div {
+  height: 70vh;
+  text-align: center;
+}
+
+.heading, .see-scores {
+  font-family: 'Caveat Brush', cursive;
+  font-size: 2em;
+  color: #000E35;
+  margin-bottom: 2px;
+  text-transform: lowercase;
+}
+
+.content {
+  font-family: 'Lato', sans-serif;
+  font-size: 1.3em;
+  color: #000E35;
+  margin-top: 2px;
+  margin-bottom: 40px;
+}
+
+.see-scores {
+  text-decoration: none;
+}
+
+.see-scores:hover {
+  color: white;
+}
+
+p {
+  margin: 0;
+}
